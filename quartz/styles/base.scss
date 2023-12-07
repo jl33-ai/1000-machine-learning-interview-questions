@@ -2,6 +2,8 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+
+
 html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
@@ -19,6 +21,7 @@ section {
   font-family: var(--bodyFont);
   color: var(--darkgray);
 }
+
 
 .text-highlight {
   background-color: #fff23688;
@@ -299,6 +302,11 @@ h6 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
+h6 {
+  color: green; 
+}
+
+
 
 div[data-rehype-pretty-code-fragment] {
   line-height: 1.6rem;

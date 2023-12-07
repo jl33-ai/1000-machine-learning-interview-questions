@@ -15,4 +15,8 @@ export default ((component?: QuartzComponent) => {
   } else {
     return () => <></>
   }
+
 }) satisfies QuartzComponentConstructor
+
+
+

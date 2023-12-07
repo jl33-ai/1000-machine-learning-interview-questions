@@ -1,0 +1,22 @@
+
+![[different-roles.svg | 750]]
+
+---
+
+wait what 
+Don't worry, this won't change the way you read this textbook. ***You'll know what you know.*** 
+
+### Data Engineer
+	Data Engineers are the first port of all, the start and most crucial part of the pipeline
+
+### Data Scientist
+
+### ML Engineer
+	Machine Learning Engineering (MLE) is the art and science of deploying models developed by data scientists and turning them into a live production system
+
+### (Data) Analyst
+
+### Developer 
+
+---
+

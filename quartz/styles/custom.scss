@@ -1,3 +1,15 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+
+// Define the bright green color
+$bright-green: #00ff00; // Adjust the hex code as needed for your desired shade of green
+
+// Targeting <strong> and <b> tags
+strong, b {
+    color: $bright-green;
+}
+.bold-text, 
+[style*="font-weight: bold"], 
+[style*="font-weight: 700"] { // 700 is another common value for bold
+    color: $bright-green;
+}
