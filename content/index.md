@@ -50,7 +50,7 @@ tags:
 ### Start Reading
 ☞ From the start
 
-☞ From [[(1.1) Introduction|Act I - Machine Learning]]
+☞ From [[1.1 Introduction Questions|Act I - Machine Learning]]
 
 ☞ From 
 

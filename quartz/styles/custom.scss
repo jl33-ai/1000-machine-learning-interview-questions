@@ -6,10 +6,20 @@ $bright-green: #00ff00; // Adjust the hex code as needed for your desired shade 
 
 // Targeting <strong> and <b> tags
 strong, b {
-    color: $bright-green;
+    color: green;
 }
+
 .bold-text, 
 [style*="font-weight: bold"], 
 [style*="font-weight: 700"] { // 700 is another common value for bold
-    color: $bright-green;
+    color: green;
+}
+
+// Targeting bold and italic text
+strong em, strong i, 
+em strong, i strong, 
+.bold-italics, 
+[style*="font-weight: bold"][style*="font-style: italic"], 
+[style*="font-weight: 700"][style*="font-style: italic"] {
+    color: red;
 }

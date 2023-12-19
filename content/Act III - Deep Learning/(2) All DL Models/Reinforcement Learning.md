@@ -9,3 +9,9 @@ Reinforcement Learning (RL) is a type of machine learning that can be classified
 4. **Deep Reinforcement Learning:** This is a hybrid approach that combines reinforcement learning with deep learning. Deep reinforcement learning uses deep neural networks to approximate either the policy directly (policy-based methods), the value function (value-based methods), or both (actor-critic methods). This approach has been responsible for some of the most notable achievements in AI, such as mastering complex games like Go or complex tasks in robotics.
 
 In summary, while reinforcement learning is a distinct area of machine learning with its unique approach and challenges, it can be combined with deep learning techniques to form what is known as deep reinforcement learning. This combination has led to significant advancements in the field of AI.
+
+---
+
+Show that Dog video from LinkedIn
+
+[https://www.linkedin.com/posts/drjimfan_the-best-visual-explainer-for-reinforcement-activity-7137468826790629377-_fZp?utm_source=share&utm_medium=member_ios](https://www.linkedin.com/posts/drjimfan_the-best-visual-explainer-for-reinforcement-activity-7137468826790629377-_fZp?utm_source=share&utm_medium=member_ios)

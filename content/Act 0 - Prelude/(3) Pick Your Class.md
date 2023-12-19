@@ -1,4 +1,6 @@
+"Right now is a ***** of a time to be alive. Code is just a means to an end. End if programming becomings obselete, there will still be engineers pushing the limits of whatever comes next. We still need to develop robots, brinchips, quantum computers, euthenasiae pods, a laser gun, space travel, time travel, and its gonna take some good old fashioned, problem solving engineers to do that."
 
+So, learn how to 
 ![[different-roles.svg | 750]]
 
 ---

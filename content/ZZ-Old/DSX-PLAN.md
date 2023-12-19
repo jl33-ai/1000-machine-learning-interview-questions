@@ -12,6 +12,8 @@ tags:
 - [ ] Now just need coloured text
 - [ ] ML stickers. 
 
+make it more streamlined. Make the structure make more sense - simpler
+Add Tags after. 
 ![[Pasted image 20231206073026.png]]
 
 
@@ -23,7 +25,145 @@ tags:
 - SELF LEARNING
 - **casse study. ZOom’s blur feature. How would you implement this?**
 - What are the knobs - parameters
-- information theory. 
+- information theory.
+DSX: df.to_csv
+Pd.read_csv
+DSX: when to use dataframe vs a tensor
+DSX:
+
+  
+One day I will release this book w/ all my mentors undeserved.
+
+remember that time you told me to start w/ the naive solution then optiimse. That really stuck w/ me
+
+  
+
+No point grinding that deeply to make a stable million dollars, when you could just start a business high volatility and make an irrationally large sum of money
+
+  
+  
+  
+
+2 years of like no life occuring, no learning, no exposure to anything. then i went into work, into uni 
+
+  
+
+[https://quartz.jzhao.xyz/setting-up-your-GitHub-repository](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository)
+
+  
+  
+
+Viet w/ moliiiii
+
+DSX: 
+
+  
+
+No moli (she’s the best, eating dinner w/ her in vietnam, the best, but also, this stuff is the best. Get to get padi to code) , but: 
+
+- DSX!!!!
+    
+
+  
+  
+  
+
+Coding fast. Ohhh Anthony. Begin. Don’t talk shit
+
+Grinding w/ VIc 
+
+Writing corporate code: DSX
+
+My biggest obstacles in my coding career: myself. Caspar. But now I’m coding for a company rn. So grateful. Projects. Kaggles .Focus. 
+
+Mst use python. Gogogo Mew. 
+
+  
+  
+
+-   
+    
+- Dataframes, coding this automated data extracting thing, thinking actual good, modular, readable corporate code. 
+    
+
+  
+  
+  
+  
+
+DSX Git
+
+pretrain/post-train
+
+DSX: Recall
+
+DSX: quick explain this error message. 
+
+  
+
+DSX/Blog: Graphs I made which made me fall in love with data: 
+
+- Domain: Uni project
+    
+- Domain: Pairs trading
+    
+- Affinda, coloured dot plot 
+    
+
+DSX. 
+
+  
+
+DSX: ‘Joe (Affinda)’ - the most important thing if you’re in software/tech is the ability to leran new, different tech It's important to remember though, fuzzy matching will never be 100% accurate and should be used as a heuristic
+
+  
+  
+
+DSX: 
+
+  
+  
+
+can you do it in a monthly granularity, and also make the colours of the bars #4cfc24
+
+and the kernel line #142c60
+
+  
+[Python](https://www.python.org/) is a general-purpose programming language. It was created in the late 1980s by Guido van Rossum. It is now one of the most popular languages in the world. It is routinely used by system administrators and web developers. Also, many scientists are using Python thanks to libraries such as NumPy, SciPy, pandas, and matplotlib. The ease of use of Python and its dynamic nature make it a very productive language.  
+  
+[IPython](https://ipython.org/) is an interactive command-line terminal for Python. It was created by Fernando Perez in 2001. IPython offers an enhanced read-eval-print loop (REPL) environment particularly well adapted to scientific computing.
+
+  
+
+DSX: inplace meaning - simple. Change in place, or return the new, changed DF 
+
+Ge tto python. SHa,e I started so late. 
+
+Writing the most beautiful script that they legit cannot do without python… maybe. Everything is just na abstraction of python. 
+
+  
+
+DSX: How to specify the index at time of creation vs. change the index to a column 
+
+Might offer lunch. Duke’s. 
+
+Just say you can wait. Don’t be extra and get cooked. 
+
+Workplace office sighs. And 
+
+Vector space
+
+  
+
+DSX - what is serialisign. 
+
+Study + Workout. 
+
+  
+
+Basic creating a dataframe and manipulating it
+
+**
 
 
 Make bold things coloured. 

@@ -1,17 +1,16 @@
-### General Structure 
-
 ```python
-// High-Level Taxonomy
-
-Act I                  // Topics
-    (1)                // Sections
-        (1.1)          // Sub Sections
-            {A}        // Individual Questions
-            {B}
-            {C}
-            ...
-        ...
-    ...
+High-Level Taxonomy (broad categorization)
+│
+├── Act I (first major topic or unit)
+│   ├── (1) (first section of Act I)
+│   │   ├── (1.1) (first subsection of section (1))
+│   │   │   ├── {A} (introductory question or problem)
+│   │   │   ├── {B} (follow-up question with increased complexity)
+│   │   │   ├── {C} (more advanced problem building upon the previous ones)
+│   │   │   └── {D} (case study or application of the covered material)
+│   │   │   ...
+│   │   ...
+│   ...
 ...
 ```
 
@@ -20,6 +19,8 @@ Act I                  // Topics
 ### Question Difficulty
 
 *All interview-style questions, with only **3 tiers** of difficulty.* 
+
+Within each section the questions get progressively harder, or sections may be explicitly separated into difficulty level. 
 
 ⍰ **Easy/Hard questions** target the concepts and theory. 
 ☞ "What is `2+2`?"
@@ -70,9 +71,9 @@ You'll see what I mean.
 The book is very **loosely** structured into only THREE main sections. Just read it from the start, in a linear fashion, and see how far you get. Questions are assorted. They will tend to get more niche, specialised and difficult. There are brain teasers sprinkled throughout. more of a repository than a textbook; but it works if you read it top to bottom. It's inherently non linear; an non-directed graph, as you can see. Jump around from topic to topic and slowly fill in the gaps. If you have enough knowledge to read it linearly, you probably hold 3 different PhD's. I have used tags and structuring to allow you to hop between different topics. Questions are designed to be MECE
 
 ---
-### Philosophy
+### Philosophies of this Book
 
-###### NB: **The philosophy of this book is to explain things in plain english.** 
+##### 1) The philosophy of this book is to explain things in plain english.
 
 Quality does not increase with quantity of fancy words. 
 
@@ -84,6 +85,7 @@ Quality does not increase with quantity of fancy words.
 - They don't really work through the exact mechanics of **how they work**
 	- and the ones that do, are so math-dense that they're basically unreadable. 
 
+##### 2) I've always believed **asking** is better than **telling**; that's why this book is structured as an interview instead of an informatory textbook. 
 
 ---
 ### How to Read
@@ -99,5 +101,3 @@ Quality does not increase with quantity of fancy words.
 Follow the pointers ☞ (not `C`). 
 
 ---
-
-# FAQ

@@ -10,6 +10,17 @@
 
 ☞ Robert Mallierdt ⚄⚂♙
 
+Special thanks to: 
+
+㊛ Thomas Gao
+
+㊚ Kai Mashimo
+
+㊚ Sai Kumar
+
+㊛ Tatiana Bolvershevsky
+
+
 ---
 
 ### About me

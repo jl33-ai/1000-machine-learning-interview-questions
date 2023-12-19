@@ -1,0 +1,304 @@
+##### What is an Auxiliary Array? 
+
+> [!check] Auxiliary Array
+> An additional array used in an algorithm to assist the computation process. Essentially just a helper data structure, that does not form part of the input or output but more intermediate. 
+
+
+<br>
+
+---
+
+##### Contains Duplicate
+
+**Python**
+```python
+#
+```
+
+**C++**
+```cpp
+//
+```
+
+<br>
+
+---
+##### 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+**Python**
+```python
+class Solution:
+	def isAnagram(self, s: str, t: str) -> bool:
+		ss = sorted(list(s))
+		tt = sorted(list(t))
+		if ss==tt:
+			return True
+		else:
+			return False
+```
+
+**C++**
+```cpp
+class Solution {
+private: 
+    int map[26] = {0};
+
+public:
+    bool isAnagram(string s, string t) {
+        if (s.size() != t.size()) {
+            return false;
+        }
+
+        for (int i = 0; i < s.size(); i++) {
+            int idx = s[i] - 'a';
+            map[idx]++;
+        }
+
+        for (int j = 0; j < t.size(); j++) {
+            int idx = t[j] - 'a';
+            map[idx]--;
+            if (map[idx] < 0) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+};
+```
+
+<br>
+
+---
+
+##### 1. [Two Sum](https://leetcode.com/problems/two-sum/)
+
+> [!check] Solution
+> Use two pointers, but without overlap ()
+
+```python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for i in range(0, len(nums)-1): 
+            for j in range(i+1, len(nums)):
+                if nums[i]+nums[j]==target: 
+                    return [i, j]
+```
+
+
+
+<br>
+
+---
+##### 49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+> [!check] Solution
+> Construct a hash map with a key equal to the sorted anagram - if two words are anagrams, they will be identical when sorted. Then simply construct a list from this dictionary. 
+
+**Python**
+```python
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        groups = {}
+        for s in strs:                      # O(n)
+            key = ''.join(sorted(s)).       # O(k*log(k))
+            if key not in groups:           # O(1)
+                groups[key] = []
+            groups[key].append(s)           # O(1)
+
+        return list(groups.values())        # O(n)
+										    # Total = O(n*k*log(k))
+```
+
+**C++**
+```cpp
+class Solution {
+public:
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        unordered_map<string, vector<string>> map; // Basically a dict
+
+        for (auto x: strs) { // automatic type deduction
+            string word = x;
+            sort(word.begin(), word.end());
+            map[word].push_back(x); // Adds an element to container, extending size by one
+        }
+
+        vector<vector<string>> ans; 
+        for (auto x: map) {
+            ans.push_back(x.second);
+        }
+        return ans; 
+    }
+};
+```
+
+---
+##### 347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+> [!Success] Explanation
+> - Construct a hash map of each number with its associated count, sort this hash map by the frequency count, return the first k elements of this sorted hash map
+
+**Python**
+```python
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        count = {}
+        # O(n)
+        for num in nums: 
+            if num in count: 
+                count[num] += 1
+            else: 
+                count[num] = 1
+		
+		# O(n*log(n))
+        result = sorted(count.items(), key=lambda x: x[1], reverse=True)
+        return [item[0] for item in result[:k]]
+```
+
+```python
+from collections import Counter
+import heapq
+
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        # Count the frequency of each element in nums
+        frequency = Counter(nums)
+
+        # Find the k elements with the highest frequency
+        # heapq.nlargest is more efficient for this purpose than sorting the entire dictionary
+        return [item for item, count in heapq.nlargest(k, frequency.items(), key=lambda x: x[1])]
+```
+
+**C++**
+```cpp
+// Time complexity: 
+```
+
+<br>
+
+---
+
+##### [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+> [!Success] Solution
+> - Use a prefix and suffix array, in place or auxiliary. 
+
+**Python**
+```python
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        answer = [1] * n
+		# O(n)
+        prefix = 1
+        for i in range(n):
+            answer[i] = prefix
+            prefix *= nums[i]
+		# O(n)
+        suffix = 1
+        for i in range(n - 1, -1, -1):
+            answer[i] *= suffix
+            suffix *= nums[i]
+        return answer
+# Total: O(n)
+```
+
+**C++**
+```cpp
+// Time complexity: 
+```
+
+<br>
+
+---
+
+##### [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+
+> [!Success] Explanation
+> There's not really an 'algorithmic' way to do this; clever use of sets and indexing helps though. 
+
+**Python**
+```python
+class Solution:
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
+        cols = [set() for _ in range(9)]
+        rows = [set() for _ in range(9)] 
+        sgs = [set() for _ in range(9)]
+
+		# O(n^2)
+        for i in range(9): 
+            for j in range(9): 
+                cell = board[i][j]
+                if cell != ".": 
+                    cell = int(cell)
+                    if cell not in rows[i]:
+                        rows[i].add(cell)
+                    else: return False
+                    if cell not in cols[j]:
+                        cols[j].add(cell)
+                    else: return False
+
+                    subgrid_index = (i//3)*3+(j//3)
+                    if cell not in sgs[subgrid_index]:
+                        sgs[subgrid_index].add(cell)
+                    else: return False
+        return True
+
+# Total: O(n^2)
+```
+
+**C++**
+```cpp
+// Time complexity: 
+```
+
+<br>
+
+---
+##### 128. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+> [!check] Solution
+> Convert the whole list into a set, iterate through the set, if you get to a number at the start of a 'streak' (no `x-1` in set) then check how long that streak is, then update the global `max_streak`. 
+
+**Python**
+```python
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        # You must write an algorithm that runs in O(n) time.
+        # cannot sort
+        if not nums: 
+            return 0
+        s = set(nums)
+        glob_best = 1
+        # O(n)
+        for num in nums: 
+            if num-1 not in s: 
+                y=num+1
+                while y in s: 
+                    y+=1
+                glob_best = max(glob_best, y-num)
+        return glob_best
+```
+
+**C++**
+```cpp
+class Solution {
+public:
+    int longestConsecutive(vector<int>& nums) {
+        set<int> S(nums.begin(), nums.end()); 
+        if (nums.empty()) { return 0; }
+        int longest = 1;
+        // O(n)
+        for (int x: S) {
+            if (S.find(x-1) == S.end()) {
+                int y = x+1;
+                while (S.find(y)!=S.end()) {
+                    y++;
+                }
+                longest = max(longest, y-x);
+            }   
+        }
+        return longest;
+    }
+};
+```
