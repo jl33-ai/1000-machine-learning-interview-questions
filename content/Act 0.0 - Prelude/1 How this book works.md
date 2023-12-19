@@ -40,7 +40,7 @@ Within each section the questions get progressively harder, or sections may be e
 ---
 
 ###### This is an example question.
-If the question is too long, it may overflow underneath. Questions can link to [[(1) How this book works#^7e0f00|other questions]] as well.
+If the question is too long, it may overflow underneath. Questions can link to [[1 How this book works#^7e0f00|other questions]] as well.
 
 The answer goes here. 
 

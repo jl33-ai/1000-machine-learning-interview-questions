@@ -11,6 +11,8 @@ tags:
 - [ ] https://quartz.jzhao.xyz/features/callouts
 - [ ] Now just need coloured text
 - [ ] ML stickers. 
+https://youtu.be/FpuiovvSPYc?si=t3RNfQirnGASEVUt
++ quant, 
 
 make it more streamlined. Make the structure make more sense - simpler
 Add Tags after. 
