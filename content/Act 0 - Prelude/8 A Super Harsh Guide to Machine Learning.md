@@ -38,12 +38,12 @@ Trying to learn machine learning? Let me put you on some **good stuff**. (Make t
 - Kaggles
 - R
 - Projects 
-### For Programming
+### For Coding
 - Leetcode
-	- Neetcode https://neetcode.io/roadmap
-	- LeetCode 75
+	- Neetcode https://neetcode.io/roadmap, all of it, in both Python and C++
+	- LeetCode 75 (there will be overlap)
 	- SQL 50
-	- Pandas
+	- Pandas 10
 - Hackerrank 
 	- Do their 
 - Projects

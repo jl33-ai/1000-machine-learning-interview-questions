@@ -2,7 +2,6 @@
 
 + include all the pbooks that consistute it. 
 
-
 ---
 # What is this?
 
@@ -14,6 +13,7 @@
 - [ ] The agglomeration of dozens of mock interviews, real interviews, coffee catch-ups, events, courses, YouTube videos, books, and courses?
 - [x] All of the above.
 
+---
 # Rules
 
 **Rule 1:** $\overset{Expectation}{\mathbb{E}(X)} = 0$
@@ -48,4 +48,5 @@ $$\mathbb{S}=f(\text{E})+\epsilon, \epsilon \sim N(0, \sigma)$$
 
 - Is this only for people applying to an interview? 
 	- No
-- 
+- Who wrote this? 
+	- me

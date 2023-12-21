@@ -14,6 +14,8 @@ tags:
 https://youtu.be/FpuiovvSPYc?si=t3RNfQirnGASEVUt
 + quant, 
 
+Follow the pointers, edit in source mode. 
+
 make it more streamlined. Make the structure make more sense - simpler
 Add Tags after. 
 ![[Pasted image 20231206073026.png]]

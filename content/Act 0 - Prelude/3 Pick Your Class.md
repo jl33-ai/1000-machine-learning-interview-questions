@@ -22,3 +22,7 @@ Don't worry, this won't change the way you read this textbook. ***You'll know wh
 
 ---
 
+*From the [[index]] page*
+
+![[mece.svg | 750]]
+
