@@ -50,3 +50,6 @@ $$\mathbb{S}=f(\text{E})+\epsilon, \epsilon \sim N(0, \sigma)$$
 	- No
 - Who wrote this? 
 	- me
+- Why is it called '**D**ata **S**cience **X**' if it encompasses machine learning, programming and quant finance? 
+	- because Data Science was the original name for computer science. Because machine learning is a subset of data science. And because Quant Finance is just an interesting application of Machine Learning and Math. 
+

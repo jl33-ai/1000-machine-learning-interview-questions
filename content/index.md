@@ -2,27 +2,27 @@
 
 > [!question] **How would you predict customer churn?** 
 > `Atlassian`
-> See the answer here
+
 
 > [!question] **How would you evaluate the effectiveness of a recommender system?** 
 > `Amazon`
-> See the answer here
+
 
 > [!question] **If I toss a coin 100 times, what is the likelihood that it ends up in the same spot?** 
 > `Optiver, Final Round`
-> See the answer here
+
 
 > [!question] **Kev’s question** 
 > `Canva`
-> See the answer here
+
 
 > [!question] **(Leetcode question)** 
 > `Google`
-> See the answer here
+
 
 > [!question] **What’s the most fun way to code a Snake Game?** 
 > `Jane Street`
-> See the answer here
+
 
 
 ---
@@ -35,6 +35,7 @@
 
 ☞ From 
 
+This book is designed to be fun and efficient. 
 
 nods and nice 
 beautiful ideas, contained
@@ -135,7 +136,7 @@ The answer goes here.
 
 ---
 
-### Your Knowledge Level
+# Your Knowledge Level
 
 This book covers everything, but that doesn't mean you have to cover everything. 
 
@@ -149,7 +150,7 @@ The book is very **loosely** structured into only THREE main sections. Just read
 
 ---
 
-### How to Read
+# How to Read
 
 - How would you feel if Python only executed 60% of your code? 
 - All unnecessary noise, cleaned away (sketch)
@@ -164,7 +165,7 @@ Follow the pointers ☞ (not `C`).
 
 ---
 
-### Philosophies of this Book
+# Philosophies of this Book
 
 ##### 1) The philosophy of this book is to explain things in plain english.
 
