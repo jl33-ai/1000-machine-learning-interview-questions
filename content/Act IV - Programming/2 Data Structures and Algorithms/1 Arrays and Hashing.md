@@ -1,18 +1,34 @@
+> [!check] Arrays
+> An array is a contiguous block of memory with fixed size, holding elements of the same data type, allowing fast access via direct indexing.
+
+
+> [!check] Hashing
+> Hashing is a process of mapping data of variable size to fixed-size values (hash codes) using a hash function, typically used for efficient data retrieval and storage in a hash table.
+
+---
+
 ##### What is an Auxiliary Array? 
 
 > [!check] Auxiliary Array
 > An additional array used in an algorithm to assist the computation process. Essentially just a helper data structure, that does not form part of the input or output but more intermediate. 
 
-
 <br>
 
 ---
 
-##### Contains Duplicate
+##### Leetcode 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 **Python**
 ```python
-#
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        seen = set()
+        for num in nums: 
+            if num in seen: 
+                return True
+            else: 
+                seen.add(num)
+        return False
 ```
 
 **C++**
@@ -23,7 +39,7 @@
 <br>
 
 ---
-##### 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+##### Leetcode 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 **Python**
 ```python
@@ -302,3 +318,5 @@ public:
     }
 };
 ```
+
+

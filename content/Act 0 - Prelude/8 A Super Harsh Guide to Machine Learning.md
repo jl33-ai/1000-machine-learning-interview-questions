@@ -77,6 +77,16 @@ Trying to learn machine learning? Let me put you on some **good stuff**. (Make t
 22. Read HackerNews to stay up to date
 23. 
 
+---
+
+But remember, **above all**:
+
+![[10000-hours.svg|500]]
+
+> [!quote] 10,000 hours of deliberate practice will make you an expert. You can iterate as you work. Only compare yourself to the past, not to others. ~ *Andrej Karpathy*
+
+
+
 
 
 ---

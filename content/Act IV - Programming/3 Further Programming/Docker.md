@@ -1,0 +1,1 @@
+[Docker](https://www.docker.com/) is a virtualization tool that allows the distribution of encapsulated software environments (containers).

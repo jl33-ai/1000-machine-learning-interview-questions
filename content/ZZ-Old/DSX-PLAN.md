@@ -4,6 +4,18 @@ draft: True
 tags:
 - example-tag
 ---
+Naw. 
+Resolve: 
+- INDEX: Launch
+- README: About this book
+	- 50-50 train, test split. As in you can expect to spend half of this book learning things and half being tested on them. 
+- Requirements.txt
+
+> [!check] The idea 🗝️
+> The idea is to...
+
+
+
 - [ ] QUESTIONS ARE NOW ##### HASHTAGS
 - [ ] ADD THE THING AT THE START OF EACH PAGE W/ TAGS AND TITLE
 - [ ] Figure out how to get *coloured CMU* serif on website

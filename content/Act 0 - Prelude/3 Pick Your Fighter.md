@@ -26,3 +26,6 @@ Don't worry, this won't change the way you read this textbook. ***You'll know wh
 
 ![[mece.svg | 750]]
 
+---
+
+https://www.linkedin.com/posts/daspringate_hot-take-aspiring-and-new-data-scientists-activity-7142578747618000897-6d1D/?utm_source=combined_share_message&utm_medium=member_ios
