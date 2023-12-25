@@ -1,9 +1,32 @@
+# Featured Questions
+
+> [!question] **How would you predict customer churn?** 
+> `Atlassian`
+> See the answer here
+
+> [!question] **How would you evaluate the effectiveness of a recommender system?** 
+> `Amazon`
+> See the answer here
+
+> [!question] **If I toss a coin 100 times, what is the likelihood that it ends up in the same spot?** 
+> `Optiver, Final Round`
+> See the answer here
+
+> [!question] **Kev’s question** 
+> `Canva`
+> See the answer here
+
+> [!question] **(Leetcode question)** 
+> `Google`
+> See the answer here
+
+> [!question] **What’s the most fun way to code a Snake Game?** 
+> `Jane Street`
+> See the answer here
+
+
 ---
-title: Welcome to DSX - 1000 Machine Learning Interview Questions
-draft: False
-tags:
-- Welcome
----
+
 # Start Reading
 
 ☞ `read me`
@@ -28,25 +51,7 @@ If True:
 
 ---
 
-# Featured Questions
 
-> [!question] **How would you predict customer churn?** 
->`Atlassian`
->See the answer here
-### How would you predict customer churn?
-	- Atlassian, Second Round
-### How would you evaluate the effectiveness of a recommender system? 
-	- Amazon
-### If I toss a coin 100 times, what is the likelihood that it ends up it in the same spot?
-	- Optiver, Final Round 
-### Kev’s question
-	- Canva
-### (Leetcode question) 
-	- Google
-### What’s the most fun way to code a Snake Game? 
-	- Jane Street
-
----
 # Made up of 
 
 ![[Pasted image 20231204191145.png | 100]] 
