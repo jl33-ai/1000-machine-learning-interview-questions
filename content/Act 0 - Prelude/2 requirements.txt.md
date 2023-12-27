@@ -10,22 +10,26 @@
 
 ☞ Robert Mallierdt ⚄⚂♙
 
-Special thanks to: 
 
-㊛ Thomas Gao
+<br>
 
-㊚ Kai Mashimo
 
-㊚ Sai Kumar
+### Special thanks to
 
-㊛ Tatiana Bolvershevsky
+㊛ • Thomas Gao
+
+㊚ • Kai Mashimo
+
+㊚ • Sai Kumar
+
+㊛ • Tatiana Bolvershevsky
 
 
 ---
 
 ### About me
 
-Hey, I'm Justin. [Read my website]().
+
 ```
 .--+--------------------------...
 .--------------------------------
@@ -45,4 +49,15 @@ Hey, I'm Justin. [Read my website]().
 +##########--..+--#--+#######--..
 ###########-----##-----########+.
 ...+#######.----##+---+#########.
+```
+
+
+---
+
+
+```cpp
+If True: 
+	while (< END) {
+		Kind_Grind ()
+	}
 ```

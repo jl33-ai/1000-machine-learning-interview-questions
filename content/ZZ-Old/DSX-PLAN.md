@@ -10,6 +10,7 @@ Resolve:
 - README: About this book
 	- 50-50 train, test split. As in you can expect to spend half of this book learning things and half being tested on them. 
 - Requirements.txt
+Everything from AFF notes
 
 > [!check] The idea 🗝️
 > The idea is to...

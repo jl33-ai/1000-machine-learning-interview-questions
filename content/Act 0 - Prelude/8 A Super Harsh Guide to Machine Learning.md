@@ -9,12 +9,13 @@ Trying to learn machine learning? Let me put you on some **good stuff**. (Make t
 - Tibrishani
 - AndrewNg
 - Statquest
+- Intuitive Machine Learning
 - 3B1B
 - HackerNews 
 - https://www.coursera.org/specializations/machine-learning-introduction
 - Datacamp
 - Tutorials 
-- Read the Docs: https://scikit-learn.org/stable/ and https://docs.scipy.org/doc/scipy/reference/optimize.html#
+- Read the Docs: https://scikit-learn.org/stable/ and https://docs.scipy.org/doc/scipy/reference/optimize.html# 
 
 ---
 

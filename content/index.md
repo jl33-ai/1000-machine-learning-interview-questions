@@ -1,3 +1,12 @@
+---
+title: "Welcome to DSX : 1000 Machine Learning Interview Questions"
+---
+
+
+> Written by [JL]()
+
+---
+
 # Featured Questions
 
 > [!question] **How would you predict customer churn?** 
@@ -35,20 +44,7 @@
 
 ☞ From 
 
-This book is designed to be fun and efficient. 
-
-nods and nice 
-beautiful ideas, contained
-reply unconfditionally
-
-```pseudocode
-If True: 
-	while (< END) {
-		Kind_Grind ()
-	}
-```
-
-
+This book is designed to be ***fun and efficient.*** 
 
 ---
 
@@ -72,6 +68,7 @@ If True:
 ![[Pasted image 20231204192333.png|100]]
 ![[Pasted image 20231204192426.png|100]]
 ![[Pasted image 20231204192515.png|100]]
+![[Pasted image 20231225221305.png|100]]
 
 ---
 

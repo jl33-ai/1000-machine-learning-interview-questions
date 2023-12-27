@@ -48,3 +48,10 @@ Clearly, is it possible for **candidate A** to outperform **candidate B** on the
 
 ---
 
+So practice, practice, practice. Practice leetcodes. practice books. 
+
+
+`1 hour`
+`10 hours`
+`100 hours`
+`10_000 hours`
