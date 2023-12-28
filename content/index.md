@@ -1,12 +1,6 @@
----
-title: "Welcome to DSX : 1000 Machine Learning Interview Questions"
----
-
-
-> Written by [JL]()
+Written by [JL]()
 
 ---
-
 # Featured Questions
 
 > [!question] **How would you predict customer churn?** 
