@@ -12,22 +12,20 @@ title: "Welcome to DSX : 1000 Machine Learning Interview Questions"
 > [!question] **How would you predict customer churn?** 
 > `Atlassian`
 
-
-> [!question] **How would you evaluate the effectiveness of a recommender system?** 
+> [!question] **How would you evaluate the effectiveness of a recommender system once it has been deployed?** 
 > `Amazon`
-
 
 > [!question] **If I toss a coin 100 times, what is the likelihood that it ends up in the same spot?** 
 > `Optiver, Final Round`
 
-
 > [!question] **Kev’s question** 
 > `Canva`
-
 
 > [!question] **(Leetcode question)** 
 > `Google`
 
+> [!question] **Invert a Binary Tree** 
+> `Facebook, First Round`
 
 > [!question] **What’s the most fun way to code a Snake Game?** 
 > `Jane Street`
@@ -75,7 +73,6 @@ This book is designed to be ***fun and efficient.***
 # How this Book Works
 
 ```python
-High-Level Taxonomy (broad categorization)
 │
 ├── Act I (first major topic or unit)
 │   ├── (1) (first section of Act I)

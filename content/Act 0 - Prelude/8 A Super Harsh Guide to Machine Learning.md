@@ -22,6 +22,7 @@ Trying to learn machine learning? Let me put you on some **good stuff**. (Make t
 ### For deep learning
 - Andrej Karthov 
 - Statquest
+- 3B1B
 - Put tensorflow in a Linux Box
 - Arvix lite
 - **The** deep learning book
@@ -37,6 +38,7 @@ Trying to learn machine learning? Let me put you on some **good stuff**. (Make t
 - Leetcodes 
 - HackerRank
 - Kaggles
+- Neetcode
 - R
 - Projects 
 ### For Coding

@@ -1,3 +1,8 @@
+---
+title: template
+draft: true
+---
+
 ##### [name here]()
 
 > [!Success] Explanation
