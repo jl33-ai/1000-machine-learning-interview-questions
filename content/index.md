@@ -54,6 +54,7 @@ This book is designed to be ***fun and efficient.***
 ![[Pasted image 20231204192209.png|100]]
 ![[Pasted image 20231204192252.png|100]]
 ![[Pasted image 20231204192259.png|100]]
+![[9780691059136.jpg|100]]
 ![[Pasted image 20231204192306.png|100]]
 ![[Pasted image 20231204192319.png|100]]
 ![[Pasted image 20231204192325.png|100]]
