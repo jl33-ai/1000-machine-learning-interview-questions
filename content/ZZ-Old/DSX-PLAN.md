@@ -7,6 +7,14 @@ tags:
 Naw. 
 DON'T CHANGE QUESTION NAMES
 
+```
+AWS
+SVM,
+LOG REGRESSION, 
+GIT, 
+GO. -> PUBLISH. (quant, options) Post to hackernews. Make the markdown beautiful map. 
+Leetcodes.**
+```
 
 Resolve: 
 - INDEX: Launch

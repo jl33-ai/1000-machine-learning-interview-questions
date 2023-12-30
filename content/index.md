@@ -1,4 +1,11 @@
-Written by [JL]()
+Written by [JL](https://jl33-ai.github.io)
+
+
+| Act 0: Prelude | Act 1: Machine Learning | Act 2: Prob and Stats | Act 3: Deep Learning | Act 4: Coding  | Act 5: Quant |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] |
+
+
 
 ---
 # Featured Questions
@@ -84,6 +91,8 @@ This book is designed to be ***fun and efficient.***
 
 
 ![[mece.svg | 750]]
+
+It is non-linear: (show each textbook as a node in a graph) and like a green yes/ No
 
 ---
 ### Question Difficulty
