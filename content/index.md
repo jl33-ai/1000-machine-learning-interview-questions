@@ -1,11 +1,10 @@
 Written by [JL](https://jl33-ai.github.io)
 
-
-| Act 0: Prelude | Act 1: Machine Learning | Act 2: Prob and Stats | Act 3: Deep Learning | Act 4: Coding  | Act 5: Quant |
+| Prelude | ML | Prob and Stats | Deep Learning | Coding  | Quant |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] | ![[act0-cover.png\|100]] |
+| [![[act0-cover.png\|100]]](/act0-prelude/) | [![[act1-cover.png\|100]]](your-link-1) | [![[act2-cover.png\|100]]](your-link-2) | [![[act3-cover.png\|100]]](your-link-3) | [![[act4-cover.png\|100]]](your-link-4) | [![[act5-cover.png\|100]]](your-link-5) |
 
-
+Credit to [Google Deepmind](https://www.instagram.com/googledeepmind)
 
 ---
 # Featured Questions
@@ -30,20 +29,6 @@ Written by [JL](https://jl33-ai.github.io)
 
 > [!question] **What’s the most fun way to code a Snake Game?** 
 > `Jane Street`
-
-
-
----
-
-# Start Reading
-
-☞ `read me`
-
-☞ From [[1.1 Introduction Questions|Act I - Machine Learning]]
-
-☞ From 
-
-This book is designed to be ***fun and efficient.*** 
 
 ---
 
@@ -74,6 +59,8 @@ This book is designed to be ***fun and efficient.***
 
 # How this Book Works
 
+This book is designed to be ***fun and efficient.*** 
+
 ```python
 │
 ├── Act I (first major topic or unit)
@@ -100,6 +87,8 @@ It is non-linear: (show each textbook as a node in a graph) and like a green yes
 *All interview-style questions, with only **3 tiers** of difficulty.* 
 
 Within each section the questions get progressively harder, or sections may be explicitly separated into difficulty level. 
+
+We have tried hard to make the questions as close-ended as possible, because open-ended questions are annoying and unhelpful. 
 
 ⍰ **Easy/Hard questions** target the concepts and theory. 
 ☞ "What is `2+2`?"

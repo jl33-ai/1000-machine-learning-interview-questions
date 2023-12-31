@@ -1,8 +1,3 @@
-# Cover Photo
-
-+ include all the pbooks that consistute it. 
-
----
 # What is this?
 
 - [ ] A website?
