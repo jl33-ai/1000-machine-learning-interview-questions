@@ -2,17 +2,11 @@
 
 | | | |
 |----|----|----|
-| Prelude | ML | Prob and Stats |
-| [![[act0-cover.png\|100]]](obsidian://open?vault=content&file=act-0%20prelude%2F0%20README.md) | [![[act1-cover.png\|100]]](obsidian://open?vault=content&file=act-1%20machine%20Learning%2F1%20Fundamentals%2F1.1%20Introduction%20Questions) | [![[act2-cover.png\|100]]](obsidian://open?vault=content&file=act-2%20prob%20and%20stats%2F1%20Fundamental%20Probability%2F1.1%20Easy%20Questions) |
-|  Deep Learning | Coding  | Quant |
-| [![[act3-cover.png\|100]]](your-link-3) | [![[act4-cover.png\|100]]](your-link-4) | [![[act5-cover.png\|100]]](your-link-5) |
-
-
-
-
-Credit to [Google Deepmind](https://www.instagram.com/googledeepmind)
+| [![[act0-cover.png\|200]]](0-README.md) | [![[act1-cover.png\|200]]](ml-index) | [![[act2-cover.png\|200]]](probstat-index) |
+| [![[act3-cover.png\|200]]](dl-index) | [![[act4-cover.png\|200]]](coding-index) | [![[act5-cover.png\|200]]](quant-coding) |
 
 ---
+
 # Featured Questions
 
 > [!question] **How would you predict customer churn?** 
@@ -179,3 +173,4 @@ Quality does not increase with quantity of fancy words.
 
 
 
+Credit to [Google Deepmind](https://www.instagram.com/googledeepmind)
