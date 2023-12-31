@@ -1,8 +1,14 @@
-Written by [JL](https://jl33-ai.github.io)
+# Jump straight in
 
-| Prelude | ML | Prob and Stats | Deep Learning | Coding  | Quant |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| [![[act0-cover.png\|100]]](/act0-prelude/) | [![[act1-cover.png\|100]]](your-link-1) | [![[act2-cover.png\|100]]](your-link-2) | [![[act3-cover.png\|100]]](your-link-3) | [![[act4-cover.png\|100]]](your-link-4) | [![[act5-cover.png\|100]]](your-link-5) |
+| | | |
+|----|----|----|
+| Prelude | ML | Prob and Stats |
+| [![[act0-cover.png\|100]]](obsidian://open?vault=content&file=act-0%20prelude%2F0%20README.md) | [![[act1-cover.png\|100]]](obsidian://open?vault=content&file=act-1%20machine%20Learning%2F1%20Fundamentals%2F1.1%20Introduction%20Questions) | [![[act2-cover.png\|100]]](obsidian://open?vault=content&file=act-2%20prob%20and%20stats%2F1%20Fundamental%20Probability%2F1.1%20Easy%20Questions) |
+|  Deep Learning | Coding  | Quant |
+| [![[act3-cover.png\|100]]](your-link-3) | [![[act4-cover.png\|100]]](your-link-4) | [![[act5-cover.png\|100]]](your-link-5) |
+
+
+
 
 Credit to [Google Deepmind](https://www.instagram.com/googledeepmind)
 
@@ -29,6 +35,9 @@ Credit to [Google Deepmind](https://www.instagram.com/googledeepmind)
 
 > [!question] **What’s the most fun way to code a Snake Game?** 
 > `Jane Street`
+
+> [!question] **How could you use a deep neural net to see people through walls using Wifi?** 
+> `Anonymous`
 
 ---
 
@@ -167,3 +176,6 @@ Quality does not increase with quantity of fancy words.
 	- and the ones that do, are so math-dense that they're basically unreadable. 
 
 ##### 2) I've always believed **asking** is better than **telling**; that's why this book is structured as an interview instead of an informatory textbook. 
+
+
+
