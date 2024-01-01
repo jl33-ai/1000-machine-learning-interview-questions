@@ -4,6 +4,10 @@ draft: True
 tags:
 - example-tag
 ---
+
+`please Write some good interview questions surrounding logistic regression (for a machine learning engineer role)`
+
+
 Naw. 
 DON'T CHANGE QUESTION NAMES
 

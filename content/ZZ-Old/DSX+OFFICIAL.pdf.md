@@ -302,23 +302,6 @@ https://youtu.be/sD468LfeVdc?si=lM6fPQxumePlJnZQ
 
 ---
 
-###### Q3.1) List three different methods for quantifying the 'impurity' of a leaf node in a decision tree
-
-- Gini Impurity
-- Entropy
-- Information Gain
-
-###### Q3.2) Follow up: step me through calculating the Gini Impurity of this leaf node
-
-| Likes chocolate | Does not like chocolate |
-|------|-----|
-| 18 | 3 |
-
-
-<br>
-
----
-
 ###### QX) **Since most machine learning algorithms require numerical input, tell me some methods we use to 'encode' categorical variables**
 
 `For example: Race = 'Caucasian', 'African', Asian', 'Hispanic'`
