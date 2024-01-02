@@ -1,5 +1,21 @@
-##### In this section you will learn to: 
+This section covers algorithms, data structures, and development
 
+We are in the realm of Artificial Intelligence. It's important to understand that 'artificial intelligence' can be achieved through neural networks as well as deterministic algorithms. 
+
+You should know beam search, and the A* algorithm. 
+And you know be interested enough in computer science to care. 
+
+How do Minecrafts mobs track you?
+
+heuristic 
+
+https://news.ycombinator.com/item?id=38833658
+
+![[a-star-depth.gif]]
+
+---
+
+##### In this section you will learn to: 
 
 > [!check] Invert a Binary Tree
 

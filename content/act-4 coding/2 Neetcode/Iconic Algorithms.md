@@ -1,3 +1,8 @@
+`2i+1`, and `2i+2`
+
+
+
+- Everything in optiv book
 
 When discussing famous real-world algorithms, it's important to consider those that have had a significant impact on various industries, technologies, and everyday life. Here are some notable examples:
 

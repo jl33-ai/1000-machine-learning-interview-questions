@@ -1,0 +1,1 @@
+If this book contains machine learning and coding, this is the **mathematics** section of the book. It's mathematics related to quantiative finance - there just happens to be a lot of overlap. 

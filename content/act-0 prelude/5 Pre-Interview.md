@@ -55,3 +55,34 @@ So practice, practice, practice. Practice leetcodes. practice books.
 `10 hours`
 `100 hours`
 `10_000 hours`
+
+
+# Rules
+
+**Rule 1:** $\overset{Expectation}{\mathbb{E}(X)} = 0$
+
+**Rule 2:** 
+```python
+class Interview: 
+	def interview(self):
+		if you_know_ur_stuff:
+			interview()
+			be.yourself()
+			speak(confidently) && speak(clearly) 
+			# Remember: confidence comes from preparation
+		else:
+			continue reading
+	def preparation(self):
+		while True: 
+			Read()
+			Understand() # everything in Data Science is about intuitive explanations
+			Memorise()   #
+			Practice() 
+```
+
+**Rule 3:**
+Success is one-to-one with effort, with the exception of a little bit of **error**
+
+$$\mathbb{S}=f(\text{E})+\epsilon, \epsilon \sim N(0, \sigma)$$
+
+---

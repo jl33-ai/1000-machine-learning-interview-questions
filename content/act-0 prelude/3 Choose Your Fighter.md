@@ -26,3 +26,5 @@
 ---
 
 https://www.linkedin.com/posts/daspringate_hot-take-aspiring-and-new-data-scientists-activity-7142578747618000897-6d1D/?utm_source=combined_share_message&utm_medium=member_ios
+
+[Peters Principle](https://en.wikipedia.org/wiki/Peter_principle)
