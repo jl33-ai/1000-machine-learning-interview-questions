@@ -287,18 +287,6 @@ https://youtu.be/sD468LfeVdc?si=lM6fPQxumePlJnZQ
 
 <br>
 
----
-
-###### Q5: **Why might a recommender system not be performing as well as initially intended, especially in big apps like Netflix, Spotify, or Canva?**
-
-1. **Cold Start Problem**: Recommending items for new users or recommending new items to users can be challenging without sufficient data.
-2. **Diversity vs. Accuracy**: Over-optimizing for accuracy can lead to a lack of diversity in recommendations.
-3. **Changing User Preferences**: Users' preferences can evolve over time, making old data less relevant.
-4. **Scalability Issues**: Handling recommendations for a vast number of users and items in real-time can be computationally challenging.
-5. **Feedback Loops**: If the system continuously recommends a certain type of content, users might only interact with that, leading to biased future recommendations.
-6. **Popularity Bias**: Recommender systems might overly focus on popular items, overshadowing niche ones.
-
-<br>
 
 ---
 
