@@ -11,28 +11,28 @@
 
 (add logos)
 
-> [!question] **How would you predict customer churn?** 
+> [!question] How do you mitigate the problem of class imbalance, and why is it important?
+> `Atlassian, Canva, Google`
+
+> [!question] How would you predict customer churn? 
 > `Atlassian`
 
-> [!question] **How would you evaluate the effectiveness of a recommender system once it has been deployed?** 
+> [!question] How would you evaluate the effectiveness of a recommender system once it has been deployed? 
 > `Amazon`
 
-> [!question] **If I toss a coin 100 times, what is the likelihood that it ends up in the same spot?** 
+> [!question] If I toss a coin 100 times, what is the likelihood that it ends up in the same spot? 
 > `Optiver, Final Round`
 
-> [!question] **Kev’s question** 
+> [!question] Kev’s question 
 > `Canva`
 
-> [!question] **(Leetcode question)** 
-> `Google`
+> [!question] Invert a binary tree
+> `Facebook`
 
-> [!question] **Invert a Binary Tree** 
-> `Facebook, First Round`
-
-> [!question] **What’s the most fun way to code a Snake Game?** 
+> [!question] What’s the most fun way to code a Snake Game? 
 > `Jane Street`
 
-> [!question] **How could you use a deep neural net to see people through walls using Wifi?** 
+> [!question] How could you use a deep neural net to see people through walls using Wifi? 
 > `Anonymous`
 
 ---

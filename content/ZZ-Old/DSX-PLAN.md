@@ -7,6 +7,16 @@ tags:
 
 `please Write some good interview questions surrounding logistic regression (for a machine learning engineer role)`
 
+---
+
+mock interviews, behavioural prep, brushing up on your projects so you know what to talk about haha, but if you're going for the canva ML role then i'd advise:
+
+- going over basic training stuff, so train test split, how would you combat under-represented classes
+- potential ai bias stuff
+- a read on recommender systems
+
+---
+
 
 Naw. 
 DON'T CHANGE QUESTION NAMES
