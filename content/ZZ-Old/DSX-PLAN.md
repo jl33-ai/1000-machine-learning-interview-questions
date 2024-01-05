@@ -4,8 +4,14 @@ draft: True
 tags:
 - example-tag
 ---
+Learn to indent `#####` or somehow make questions stand out. 
+
+Generate questions like 'write a python function to implement mean average precision'
 
 `please Write some good interview questions surrounding logistic regression (for a machine learning engineer role)`
+
+
+dictionairy compregebsion, sort, sorted
 
 ---
 

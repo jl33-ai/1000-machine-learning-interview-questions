@@ -61,6 +61,8 @@ So practice, practice, practice. Practice leetcodes. practice books.
 
 **Rule 1:** $\overset{Expectation}{\mathbb{E}(X)} = 0$
 
+have no expectations. just practice. 
+
 **Rule 2:** 
 ```python
 class Interview: 

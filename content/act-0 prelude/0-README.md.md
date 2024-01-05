@@ -1,3 +1,18 @@
+# FAQ
+
+- Is this only for people who plan to interview? 
+	- No, it's for everyone.  
+- Who wrote this? 
+	- [[1 requirements.txt|Me]]
+- Why is it called '**D**ata **S**cience **X**' if it encompasses machine learning, programming and quant finance? 
+	- Because data science was the original name for computer science. Because machine learning is a subset of data science. And because Quant Finance is just an interesting application of Machine Learning and Math. 
+- How should I use this book? 
+	- **1)** For interview practice (duh). **2)** As a textbook-like learning resource. **3)** As a checklist of things to cover. 
+-  Why are there so many **Minecraft** references?
+	- Mine your own business. 
+
+---
+
 # What is this?
 
 - [ ] A website?
@@ -9,15 +24,6 @@
 - [x] All of the above.
 
 ---
-
-# FAQ
-
-- Is this only for people applying to an interview? 
-	- No
-- Who wrote this? 
-	- [[1 requirements.txt|Me]]
-- Why is it called '**D**ata **S**cience **X**' if it encompasses machine learning, programming and quant finance? 
-	- Because data science was the original name for computer science. Because machine learning is a subset of data science. And because Quant Finance is just an interesting application of Machine Learning and Math. 
 
 
 # How this Book Works
@@ -135,3 +141,5 @@ Quality does not increase with quantity of fancy words.
 
 ##### 3) Written with pedagogy in mind
 
+
+Trust in first principles. Everything is just small layers of logic built on top of each other, everything. If you don't get something, backtrack until you find the missing piece of logic 

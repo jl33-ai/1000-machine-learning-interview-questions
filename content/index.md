@@ -43,8 +43,7 @@ Can you explain the
 ---
 
 
-# Made up of 
-
+# Inspired and informed by
 ![[Pasted image 20231204191145.png | 100]] 
 ![[Pasted image 20231204191252.png | 100]] 
 ![[Pasted image 20231204191312.png | 100]] 
@@ -64,12 +63,14 @@ Can you explain the
 ![[Pasted image 20231204192426.png|100]]
 ![[Pasted image 20231204192515.png|100]]
 ![[Pasted image 20231225221305.png|100]]
+![[1202.jpg|100]]
 
 ---
 
 
 
 ![[google-deepmind.png | 500]]
+
 Textbook cover credit: [Google Deepmind, Artificial Intelligence Illustrated](https://www.instagram.com/googledeepmind)
 
 
