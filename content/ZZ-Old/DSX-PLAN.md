@@ -4,6 +4,13 @@ draft: True
 tags:
 - example-tag
 ---
+
+Tribute: 
+- alex maister, mister inc, 24 game reference
+- amanda probability questions
+- kyla spodcast 
+- tom gao 
+- 
 Learn to indent `#####` or somehow make questions stand out. 
 
 Generate questions like 'write a python function to implement mean average precision'
