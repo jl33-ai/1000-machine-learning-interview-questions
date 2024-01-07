@@ -5,6 +5,21 @@ tags:
 - example-tag
 ---
 
+
+
+
+# to do
+
+- [ ] fix v4
+- [ ] sklearn
+- [ ] pytorch 
+- [ ] logistic regression
+- [ ] quant book
+- [ ] - **Recommender Systems and Logistic Regression and that Statquest on transforms**
+
+
+
+
 Tribute: 
 - alex maister, mister inc, 24 game reference
 - amanda probability questions

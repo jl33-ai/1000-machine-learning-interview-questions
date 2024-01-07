@@ -2,6 +2,8 @@
 
 - Is this only for people who plan to interview? 
 	- No, it's for everyone.  
+- Which type of interview does this book apply to? 
+	- Quanitative trading, quantitative researching, Machine learning engineer, data science, software developer, then tyou will benefit from this. 
 - Who wrote this? 
 	- [[1 requirements.txt|Me]]
 - Why is it called '**D**ata **S**cience **X**' if it encompasses machine learning, programming and quant finance? 
