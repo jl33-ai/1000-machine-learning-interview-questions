@@ -5,6 +5,8 @@
 | [![[act0-cover.png\|200]]](0-README.md) | [![[act1-cover.png\|200]]](ml-index) | [![[act2-cover.png\|200]]](probstat-index) |
 | [![[act3-cover.png\|200]]](dl-index) | [![[act4-cover.png\|200]]](coding-index) | [![[act5-cover.png\|200]]](quant-coding) |
 
+Or if you don't know where to start, [[act-1 machine Learning/1 Fundamentals/1.1-intro-questions|go here]].
+
 ---
 
 # Featured Questions

@@ -11,13 +11,28 @@ tags:
 # to do
 
 - [ ] fix v4
-- [ ] sklearn
+- [ ] Go through and backfill from google docs
+- [ ] http://neuralnetworksanddeeplearning.com/chap3.html Reiterate and fill in Q's from this bad boy. 
+- [x] sklearn
 - [ ] pytorch 
 - [ ] logistic regression
 - [ ] quant book
-- [ ] - **Recommender Systems and Logistic Regression and that Statquest on transforms**
+- [ ] - **Recommender Systems and Logistic Regression and**
+- [ ] All material on transformers but the r
+- [ ] linear programming, operations research, speak to Jeffy. 
 
+---
 
+How would you model X
+
+Game Theory, 
+Prisonners dilemma. 
+
+how would you model. x3 for each DL and shit model
+
+when you realise patterns are just constraints, and one other hting 
+
+---
 
 
 Tribute: 

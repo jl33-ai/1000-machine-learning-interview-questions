@@ -21,6 +21,7 @@
 - [ ] A passion project?
 - [ ] A textbook in the form of an interview? 
 - [ ] A repository of interview questions? 
+- [ ] Doubles as a HOME for all the sick materials I find, since I'm a bit of a hoarder. 
 - [ ] A diary of all the cool stuff that makes my brain tingle?
 - [ ] The agglomeration of dozens of mock interviews, real interviews, catch-ups, events, courses, YouTube videos, books, and courses?
 - [x] All of the above.

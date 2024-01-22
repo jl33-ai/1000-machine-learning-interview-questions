@@ -4,6 +4,11 @@ https://youtu.be/1CIpzeNxIhU?si=ywNiL6hBUVJte_qY
 
 Types of noise
 
+Let's build up a modular understanding of stable diffusion. You need to all these dependencies: 
+Now you know UNETs, CLIP, VAR, 
+
+watch x2 stable diffusion videos (and mine)
+
 ---
 
 ##### Questions
@@ -95,3 +100,6 @@ This is basically what CLIP does. CLIP learns from a massive amount of image-des
 Key word is embeddings. Initial feature space of text has two bad properties: it has big dimensionality (each token is it's own dimension essentially) and sparsity. By using Transformers you compress representation of this object in more compact and dense form, so it's easier to work with.
 
 Stable diffusion doesn't actually actually apply noise to images, it uses a compressed low dimensional latent representation of the image and applies noise to that. The model is running in this abstract latent space, and then the autoencoder recreates the image afterwards.
+
+
+https://youtu.be/24yjRbBah3w?si=LQiMJZV0bDcImObp
