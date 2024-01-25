@@ -34,6 +34,8 @@ when you realise patterns are just constraints, and one other hting
 
 ---
 
+Does random noise have the most signal or least signal? 
+
 
 Tribute: 
 - alex maister, mister inc, 24 game reference
