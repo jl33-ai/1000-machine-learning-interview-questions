@@ -13,9 +13,7 @@
 -  Why are there so many **Minecraft** references?
 	- Mine your own business. 
 
----
-
-# What is this?
+*What is this?*
 
 - [ ] A website?
 - [ ] A passion project?
@@ -26,14 +24,42 @@
 - [ ] The agglomeration of dozens of mock interviews, real interviews, catch-ups, events, courses, YouTube videos, books, and courses?
 - [x] All of the above.
 
+
+
 ---
 
+# Philosophies of this Book
 
-# How this Book Works
+##### 1) 0% noise, 100% signal
+
+The plan is to cut through the noise and provide pure signal for you, for the reader. 
+
+Quality does not increase with quantity of fancy words. 
+
+
+![[fancy jargon.svg | 500]]
+
+
+- Furthermore, most resources only tell you '**about**' models. 
+- They don't really work through the exact mechanics of **how they work**
+	- and the ones that do, are so math-dense that they're basically unreadable. 
+
+##### 2) I've always believed **asking** is better than **telling**; that's why this book is structured as an interview instead of an informatory textbook. 
+
+All the content you could ever want to cover is reframed as a question, either explicitly or implicitly. 
+
+
+##### 3) I also believe in *beautiful* graphics - they make reading infinitely more exciting, and improve memory. 
 
 This book is designed to be ***fun and efficient.*** 
 
-All the content you could ever want to cover is reframed as a question, either explicitly or implicitly. 
+Trust in first principles. Everything is just small layers of logic built on top of each other, everything. If you don't get something, backtrack until you find the missing piece of logic 
+
+
+---
+
+
+# Structure of the Book
 
 ```python
 │
@@ -121,30 +147,8 @@ The book is very **loosely** structured into only THREE main sections. Just read
 - think of scary the word 'cardiovascular' looked the first time you read it. Simple logic hides behind all the scary words in this book. It's called Jargon. 
 - Understanding > Memorising > Reading 
 - Look say cover write check. Just because you read the answer $\implies$ doesn't mean you will answer it in an interview. 
--  in your own words - or even just reading from the answers. Your interview **cannot** be the first time you've ever tried to articulate these concepts aloud. 
-
-Follow the pointers ☞ (not `C`). 
+- In your own words - or even just reading from the answers. Your interview **cannot** be the first time you've ever tried to articulate these concepts aloud. Explain them to your uncaring friend, whatever it takes. 
+- Follow the pointers ☞ (like it's `C++`). 
 
 
 ---
-
-# Philosophies of this Book
-
-##### 1) The philosophy of this book is to explain things in plain english.
-
-Quality does not increase with quantity of fancy words. 
-
-
-![[fancy jargon.svg | 500]]
-
-
-- Furthermore, most resources only tell you '**about**' models. 
-- They don't really work through the exact mechanics of **how they work**
-	- and the ones that do, are so math-dense that they're basically unreadable. 
-
-##### 2) I've always believed **asking** is better than **telling**; that's why this book is structured as an interview instead of an informatory textbook. 
-
-##### 3) Written with pedagogy in mind
-
-
-Trust in first principles. Everything is just small layers of logic built on top of each other, everything. If you don't get something, backtrack until you find the missing piece of logic 
