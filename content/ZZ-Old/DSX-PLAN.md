@@ -4,10 +4,19 @@ draft: True
 tags:
 - example-tag
 ---
+BUSSIN: https://docs.google.com/forms/d/e/1FAIpQLScn4n8BU4y5mB5cCaMOkPJM8tqPAN8zVZ-IHwFuNNVWsDUedw/viewform?pli=1
+
+https://brilliant.org/wiki/bloom-filter/#:~:text=A%20bloom%20filter%20is%20a,is%20added%20to%20the%20set.
+
+What is Online Learning:
 
 
+---
 
+https://www.mlstack.cafe/blog/probability-interview-questions
+This. Website. Is so. Easy to read. 
 
+---
 # to do
 
 - [ ] fix v4

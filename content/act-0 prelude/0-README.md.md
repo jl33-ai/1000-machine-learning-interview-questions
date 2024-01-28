@@ -33,6 +33,8 @@
 
 This book is designed to be ***fun and efficient.*** 
 
+All the content you could ever want to cover is reframed as a question, either explicitly or implicitly. 
+
 ```python
 │
 ├── Act I (first major topic or unit)

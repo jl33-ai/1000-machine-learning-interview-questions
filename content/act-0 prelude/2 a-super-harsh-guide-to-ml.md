@@ -93,3 +93,11 @@ https://youtu.be/VMj-3S1tku0?si=l3kXAhaTof-eHM06 5:00
 
 https://youtu.be/aircAruvnKk?si=OJXBb_P056pVYJCw
 
+
+A repository of good repositories 
+- [Machine Learning Interviews from FAANG, Snapchat, LinkedIn, Khangich](https://github.com/khangich/machine-learning-interview)
+- https://github.com/andrewekhalel/MLQuestions
+- https://github.com/alirezadir/Machine-Learning-Interviews
+- https://github.com/Sroy20/machine-learning-interview-questions
+- https://www.mlstack.cafe/blog/probability-interview-questions
+- 

@@ -1,0 +1,1 @@
+gross margin = portion of revenue remaining after subtracting COGS. 

@@ -7,7 +7,9 @@ Yes it's consulting, but they're great at breaking down the general steps of how
 ![[71O1VM65eML._AC_UF1000,1000_QL80_.jpg | 150]]![[61YGoUsyVWL._AC_UF894,1000_QL80_.jpg | 150]]![[81vvgZqCskL._AC_UF894,1000_QL80_.jpg|150]]
 
 1. Don't be **scared**! You're much smarter than you think you are, and this stuff is a lot easier than you think it is. Top 3 regrets are always: I wish I wasn't as scared, I wish I just a) started learning this thing sooner, didn't realise it'd be so easy/fun. b) wish I just applied, I actually had a chance + woul dhave been good practice anyways. 
-2. 
+2. The best way to practice answering questions aloud is to practice answering questions aloud. Give it a go right now, imagine I just asked you "what is a probability distributions." The mic is yours. 
+	1. I'm a big fan of recording, so it helps to make a `interview-prep` folder in your voice recording app of choice, and go crazy. No you will never listen to them, but it enhances the illusion that you're 'talking to' someone. And gives you a nice repository to look back on. 
+	2. Use it for those less-calculationaly but more explanatory questions. 
 
 <br>
 
